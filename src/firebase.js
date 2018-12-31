@@ -3,12 +3,12 @@ import "firebase/storage";
 import "firebase/database";
 
 const config = {
-  apiKey: "AIzaSyBLzPfms1ICwV0YZMoVGo_O7tDuqv8vplI",
-  authDomain: "video-uplode.firebaseapp.com",
-  databaseURL: "https://video-uplode.firebaseio.com",
-  projectId: "video-uplode",
-  storageBucket: "video-uplode.appspot.com",
-  messagingSenderId: "306628252093"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 firebase.initializeApp(config);
